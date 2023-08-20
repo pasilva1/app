@@ -1,5 +1,5 @@
 function Home (){
-    return <h1>Excelente domingo ! TMJ! Vamos estudar !  feito com Next.js e React</h1>
+    return <h1>Excelente domingo ! Mãezinha eu te amo !!, fala com Júnior, que existem oportunidades em tecnologia e eu posso ajudar !</h1>
 }
 
 export default Home;
